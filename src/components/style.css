@@ -1,0 +1,16 @@
+
+form{
+  width: 100%;
+padding: 20px;
+  color:black;
+  background-color: rgb(235, 169, 207);
+  margin-left: 300px;
+}
+
+input{
+  margin-bottom: 11px;
+}
+
+.disabled{
+  background-color: gray !important;
+}
